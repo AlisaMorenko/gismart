@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gismart/static/css/main.42f6cea3.chunk.css",
+    "main.js": "/gismart/static/js/main.7cc0063a.chunk.js",
+    "main.js.map": "/gismart/static/js/main.7cc0063a.chunk.js.map",
+    "runtime-main.js": "/gismart/static/js/runtime-main.58602002.js",
+    "runtime-main.js.map": "/gismart/static/js/runtime-main.58602002.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/gismart/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.6081f9a2.chunk.js": "/gismart/static/js/2.6081f9a2.chunk.js",
+    "static/js/2.6081f9a2.chunk.js.map": "/gismart/static/js/2.6081f9a2.chunk.js.map",
+    "static/js/3.32895005.chunk.js": "/gismart/static/js/3.32895005.chunk.js",
+    "static/js/3.32895005.chunk.js.map": "/gismart/static/js/3.32895005.chunk.js.map",
+    "index.html": "/gismart/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/gismart/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.42f6cea3.chunk.css.map": "/gismart/static/css/main.42f6cea3.chunk.css.map",
+    "static/js/2.6081f9a2.chunk.js.LICENSE.txt": "/gismart/static/js/2.6081f9a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58602002.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.6081f9a2.chunk.js",
+    "static/css/main.42f6cea3.chunk.css",
+    "static/js/main.7cc0063a.chunk.js"
+  ]
+}
