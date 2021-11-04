@@ -64,9 +64,6 @@
 }
 
 @media screen and (min-width: 768px) {
-  /* .container {
-    width: 768px;
-  } */
   .add {
     width: 80px;
     height: 80px;
@@ -79,9 +76,6 @@
   }
 }
 @media screen and (min-width: 1200px) {
-  /* .container {
-    width: 1200px;
-  } */
   .listItem {
     width: calc((100% - 10 * 10px) / 5);
   }

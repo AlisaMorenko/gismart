@@ -1,6 +1,7 @@
 import React from 'react';
 
 import styles from './message.module.css';
+
 const Message = ({ onRender, onError }) => {
   return (
     <>
